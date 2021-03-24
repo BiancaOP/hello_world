@@ -1,2 +1,3 @@
 # hello_world
-Just another repository
+First 
+this is my first repository, soon i will make new posts, because I'm a curious person and i always try to improve myself!
